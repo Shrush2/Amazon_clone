@@ -1,2 +1,2 @@
 # Amazon_clone
-This project is build by using HTML and CSS.
+This project is build by using HTML and CSS;
